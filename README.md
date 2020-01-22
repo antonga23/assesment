@@ -1,7 +1,7 @@
 # assesment
 A solution to finding the sum of even-valued terms in a Fibonacci sequence where the sum of those terms does not exceed 5 million.
 
-##How to run:
+### How to run:
 This program is ideally run on visual studio.
 
 `
